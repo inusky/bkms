@@ -7,7 +7,7 @@
 # _dev : development_
 
 
-> Dart, Flutter, Js NodeJs, React, gitHub, style-appearance ... etc
+> Dart, Flutter, Js NodeJs, React, gitHub repos, style-appearance ... etc
 - dev web 
 - dev yt 
 
