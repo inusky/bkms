@@ -13,10 +13,11 @@
 
 # _yi : yield_
 
-> office - word, excel ..etc
+- office - word, excel ..etc
+- pc - setting, boot, ..etc
 > pc- 
-- yi web
-- yi yt
+- yi web office/pc
+- yi yt office/pc
 
 # _dgm : digital marketing_
 
