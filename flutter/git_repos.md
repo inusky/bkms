@@ -12,4 +12,5 @@ A new Flutter project.
 > [ RivaanRanawat /flutter-amazon-clone-tutorial ](https://github.com/RivaanRanawat/flutter-amazon-clone-tutorial) Full Stack Amazon Clone along with Admin Panel. Flutter Mobile App + Node.js Back End Tutorial – Code an Amazon Clone `youtube` [global_variables.dart](https://github.com/RivaanRanawat/flutter-amazon-clone-tutorial/blob/master/lib/constants/global_variables.dart)
 
 - Server: Node.js, Express, Mongoose, MongoDB, Cloudinary
+
 - Client: Flutter, Provider

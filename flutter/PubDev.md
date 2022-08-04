@@ -10,3 +10,5 @@ dependencies:
 ```dart
 import 'package:google_fonts/google_fonts.dart';
 ```
+
+flutter_staggered_grid_view
