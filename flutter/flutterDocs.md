@@ -10,8 +10,8 @@
 > [The pubspec file](https://dart.dev/tools/pub/pubspec) Every pub package needs some metadata so it can specify its dependencies.[Version your app](https://developer.android.com/studio/publish/versioning) Versioning is a critical component of your app upgrade and maintenance strategy. Versioning is important because,[Core Foundation Keys](https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html) The Core Foundation framework provides the underlying infrastructure for bundles
 
 ## web and blogs pages
-
 - [Flutter Resources](https://flutterrepos.com/)
+
 - [KINDACODE](https://www.kindacode.com/) Free, high quality development tutorials and examples
 
 - Use [Functional Widgets in Flutter ](https://medium.com/flutter-community/use-functional-widgets-in-flutter-to-reduce-boilerplate-code-9e815c2ddb94)
