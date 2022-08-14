@@ -4,7 +4,7 @@
 - `git add`
 - `git commit -m "first commit"`
 - `git branch -M master`
-- `git remote add origin https://github.com/skyGwork/ReactJs.git`
+- `git remote add origin https://github.com/skyGwork/ReactkwJs.git`
 - `git push -u origin master`
 
 > push an existing repository from the command line
