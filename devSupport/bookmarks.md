@@ -1,36 +1,26 @@
 # **_BOOKMARKS_**
 
-# _dev : development_
+> dev - web/yt/github - Dart, Flutter, Js NodeJs, React, css , css-assets
 
-- web/yt - Dart, Flutter, Js NodeJs, React, css , css-assets
-- gitHub - css, js, flutter etc
+```bash
+    dev web aws cLI lambda
+    dev yt aws Amplify
+    dev extension vscode aws
+```
 
-- dev web aws cLI lambda
-- dev yt aws Amplify
-- dev extension vscode aws
+> [ office ] - word, excel ..etc ; [ pc ] - setting, boot, ..etc
 
-# _yi : yield_
+```cli
+    yi - web/yt - office/pc
+```
 
-- office - word, excel ..etc ; +
-- pc - setting, boot, ..etc
+```cli
+    - dgm web/yt
+```
 
-- yi web office/pc
-- yi yt office/pc
+> acd : academic research - ins : Institute,- bd: Board, - com : Commerce - a/c, eco, bst
 
-# _dgm : digital marketing_
+```cli
+    acd web/yt ins/bd/com
 
-- dgm web
-- dgm yt
-
-# _acd : academic research_
-
-- ins : Institute,
-- bd: Board,
-- com : Commerce - a/c, eco, bst
-
-- acd web ins/bd/
-- acd yt ins/bd/com/
-
-_EXAMPLES_
-
--dev web cli windows
+```
