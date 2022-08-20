@@ -1,11 +1,19 @@
+@tryit auth 
+
+educators - for web clone
+
 # **_BOOKMARKS_**
+
+@pricing
+@aws lambda
+@aws dynamodb
 
 > dev - web/yt/github - Dart, Flutter, Js NodeJs, React, css , css-assets
 
 ```bash
-    dev web aws cLI lambda
-    dev yt aws Amplify
-    dev extension vscode aws
+        dev web react
+        dev web javascript
+        dev web minify
 ```
 
 > [ office ] - word, excel ..etc ; [ pc ] - setting, boot, ..etc
