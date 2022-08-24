@@ -8,32 +8,31 @@
 
 - `cdk init app --language typescript`
 
+- `cdk synth` emits the synthesized CloudFormation template
+
+- `cdk ls` //- AwsCdkStack
+
 - `cdk bootstrap aws://ACCOUNT-NUMBER/REGION`
 
-  > or
-
 - `cdk bootstrap `
-
-  > if required
-
-- `set CDK_NEW_BOOTSTRAP=2` or `export CDK_NEW_BOOTSTRAP=2`
-
-  > test it
-
-- `npx cdk bootstrap aws://<YOUR_ACCONT_ID>/<YOUR_REGION> --cloudformation-execution-policies arn:aws:iam::aws:policy/AdministratorAccess aws://<YOUR_ACCONT_ID>/<YOUR_REGION>`
-
-  > [Useful commands]()
-
-- `npm run build`
-- `cdk ls` //- AwsCdkStack
-- `cdk synth`
-- `cdk deploy`
 
 - `npm run build` compile typescript to js
 - `npm run watch` watch for changes and compile
 - `npm run test` perform the jest unit tests
+
 - `cdk deploy` deploy this stack to your default AWS account/region
+
 - `cdk diff` compare deployed stack with current state
-- `cdk synth` emits the synthesized CloudFormation template
 
 - `cdk destroy <Stack>`
+
+##############################
+
+
+  > if required
+
+- `set CDK_NEW_BOOTSTRAP=2` or `set CDK_NEW_BOOTSTRAP=2` // once
+
+  > test it
+
+- `cdk bootstrap aws://<YOUR_ACCONT_ID>/<YOUR_REGION> --cloudformation-execution-policies arn:aws:iam::aws:policy/AdministratorAccess aws://<YOUR_ACCONT_ID>/<YOUR_REGION>`

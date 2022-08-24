@@ -1,5 +1,4 @@
-
-: Quick configuration with [aws cli configure](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-quickstart.html)
+> Quick configuration with [aws cli configure](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-quickstart.html)
 
 - `node -v` / `node -version`
 
@@ -10,11 +9,10 @@
 ```
 
 - `aws configure`
-- `aws configure list`k
+- `aws configure list`
 - `aws sts get-caller-identity`
 - `aws sts get-caller-identity --profile santosh@admin`
 - `aws configure list-profiles`
-
 
 <br/>
 

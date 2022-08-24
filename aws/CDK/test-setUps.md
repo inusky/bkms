@@ -48,23 +48,3 @@ $ aws sts get-caller-identity --profile santosh@serverless
         "Arn": "arn:aws:iam::****************:user/santosh@serverless"
         }
 ```
-
-```ts
-        #!/usr/bin/env node
-        'use strict';
-        Object.defineProperty(exports, '__esModule', { value: true });
-        require('source-map-support/register');
-        const cdk = require('aws-cdk-lib');
-        const first_cdk_appv1_stack_1 = require('../lib/first_cdk_appv1-stack'); 
-        
-        //***
-        const envAP = {
-        account: 'ACCOUNT-NUMBER',
-        region: 'ap-south-1',
-        };
-        const app = new cdk.App();
-
-        new first_cdk_appv1_stack_1.FirstCdkAppv1Stack(app, 'FirstCdkAppv1Stack', {
-        env: envAP,//***
-        });
-```
