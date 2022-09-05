@@ -14,7 +14,6 @@
 
 - `cdk bootstrap aws://ACCOUNT-NUMBER/REGION`
 
-- `cdk bootstrap aws://428204773308/ap-south-1`
 
 - `cdk bootstrap --template bootstrap-template.yaml` // if required
 
