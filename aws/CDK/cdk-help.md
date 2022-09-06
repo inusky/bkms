@@ -19,8 +19,8 @@
     cdk acknowledge [ID]            Acknowledge a notice so that it does not show
                                 up anymore                      [aliases: ack]
     cdk notices                     Returns a list of relevant notices
-    cdk init [TEMPLATE]             Create a new, empty CDK project from a
-                                template.
+    cdk init [TEMPLATE]             Create a new, empty CDK project from a 
+                                    template.
     cdk context                     Manage cached context values
     cdk docs                        Opens the reference documentation in a browser
                                                                 [aliases: doc]

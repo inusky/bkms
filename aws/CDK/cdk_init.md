@@ -6,6 +6,8 @@
 
 - [Bootstrapping](https://docs.aws.amazon.com/cdk/v2/guide/bootstrapping.html)
 
+> STEPS
+
 - `cdk init app --language typescript`
 
 - `cdk synth` emits the synthesized CloudFormation template
@@ -15,7 +17,7 @@
 - `cdk bootstrap aws://ACCOUNT-NUMBER/REGION`
 
 
-- `cdk bootstrap --template bootstrap-template.yaml` // if required
+note `cdk bootstrap --template bootstrap-template.yaml` // if required (mostly serverless fremwork/cloudformation details)
 
 ```ts
 #!/usr/bin/env node
