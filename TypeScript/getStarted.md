@@ -17,7 +17,6 @@
 - [npm ts-node](https://www.npmjs.com/package/ts-node) `npm i ts-node`// `npm install -g ts-node`
 - tsc index.ts --outDir ./dist
 
-
 - `ts-node --version`
 
 ```bash
@@ -27,25 +26,8 @@
 
 > [Intro to the TSConfig Reference](https://www.typescriptlang.org/tsconfig) For tsconfig.json `tsc --init`
 
-```bash
-$ tsc --init
+- [Run the TypeScript build](https://code.visualstudio.com/docs/typescript/typescript-compiling#_step-2-run-the-typescript-build)
 
-        Created a new tsconfig.json with:
-        target: es2016
-        module: commonjs
-        strict: true
-        esModuleInterop: true
-        skipLibCheck: true
-        forceConsistentCasingInFileNames: true
-
-
-        You can learn more at https://aka.ms/tsconfig
-```
-
-and==/
-` for vs code ctrl+shift+b`
-
-[Run the TypeScript build](https://code.visualstudio.com/docs/typescript/typescript-compiling#_step-2-run-the-typescript-build)
+- ` for vs code ctrl+shift+b` // `tsc`
 
 - https://www.npmjs.com/package/parcel `npm i parcel`
-
