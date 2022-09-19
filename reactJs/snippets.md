@@ -22,7 +22,7 @@ imrs    → 	    import React, { useState } from 'react'
 imrse   → 	    import React, { useState, useEffect } from 'react'
 ```
 
-> React Functional
+## React Functional
 
 ```js
 clg →  console.log(object)
@@ -33,7 +33,6 @@ useStateSnippest → const [first, setfirst] = useState(second)
 
 // with cleanup
 useEffectSnippest →
-
   useEffect(() => {
     first
     return () => {
@@ -47,7 +46,6 @@ useEffectSnippest →
 
 ```js
 rfc →
-
 import React from 'react';
 export default function ListMaps() {
   return (
@@ -55,4 +53,25 @@ export default function ListMaps() {
   )
 }
 
+rcc →
+import React, { Component } from 'react'
+export default class FileName extends Component {
+  render() {
+    return <div>$2</div>
+  }
+}
+
+rce →
+import React, { Component } from 'react';
+class componentName extends Component {
+  render() {
+    return (
+      <div> textInComponent </div>
+    );
+  }
+}
+
+export default componentName;
+
 ```
+
